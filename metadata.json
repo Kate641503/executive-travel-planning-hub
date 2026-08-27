@@ -1,0 +1,6 @@
+{
+  "name": "Executive Travel Planning & Logistics Hub",
+  "description": "Executive travel operations, itinerary planning, flight and hotel research, meeting logistics, budget tracking, and travel briefs portfolio hub for Catherine Ngina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
